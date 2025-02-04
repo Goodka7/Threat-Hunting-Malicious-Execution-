@@ -1,4 +1,4 @@
-<img width="400" src="https://github.com/user-attachments/assets/c741101c-04f7-4115-90f3-77d677585dbd"/>
+<img width="400" src="https://github.com/user-attachments/assets/cf2bfe69-30da-4a79-aaa4-6d2f0509ecf8"/>
 
 # Threat Hunt Report: Malicious File Execution
 
