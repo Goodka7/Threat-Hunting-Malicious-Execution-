@@ -1,0 +1,6 @@
+# Threat Event (Malicious File Execution)
+
+## Steps the "Bad Actor" took to Create Logs and IoCs:
+
+1. Downloaded a malicious file to the machine.
+2. Execute the malicious file, simulating a compromise. 
