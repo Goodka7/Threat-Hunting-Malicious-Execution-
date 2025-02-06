@@ -17,6 +17,7 @@
 ## Related Queries:
 
 ```kql
+
 DeviceProcessEvents
 | where InitiatingProcessFileName in ("wget", "curl", "bash", "python", "perl")
 | project Timestamp, DeviceName, InitiatingProcessAccountName, InitiatingProcessAccountDomain, InitiatingProcessFileName, ProcessCommandLine
